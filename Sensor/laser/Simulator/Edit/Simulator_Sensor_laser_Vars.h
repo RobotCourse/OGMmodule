@@ -39,7 +39,7 @@ public:
 	*/
 	Simulator_Sensor_laser_Vars() 
 	{
-        path="/home/akira/Build/APP/example_app2";
+        path="/home/rsys/Build/APP/example_app2";
         filename="a20160801135224.lms1";
 	}
 	/*! \fn ~Simulator_Sensor_laser_Vars()
